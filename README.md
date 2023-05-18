@@ -2,8 +2,8 @@
 - QA Automation Analyst 💻
 
 <div>
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eeduardolima&show_icons=true&theme=radical"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeduardolima&layout=compact&theme=radical"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eeduardolima&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeduardolima&layout=compact&theme=radical&count_private=true&show_icons=true"/>
 </div>
 
 ### ⚒️ Technologies and Tools I use
